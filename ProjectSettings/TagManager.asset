@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Reticle
+  - Toolbar
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -14,10 +16,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Ground
+  - WhatIsGround
+  - WhatIsPlayer
   - 
   - 
   - 

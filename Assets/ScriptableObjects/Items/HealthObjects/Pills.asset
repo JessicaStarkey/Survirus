@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05c7c9c805e69f84eb98cb2fa1afb54e, type: 3}
+  m_Name: Pills
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2378331882253041745, guid: cead372894b6b374197447fe44250737, type: 3}
+  type: 0
+  description: 
+  restoreHealthValue: 50
